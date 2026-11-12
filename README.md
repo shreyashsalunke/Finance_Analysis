@@ -104,7 +104,7 @@ The project showcases practical skills in SQL querying, data analysis, KPI devel
 
 **Author:** Shreyash Salunke
 
-**Project Domain:** Financial Analytics
+**Project Domain:** Bank Loan Data Analytics
 
 **Tools:** MSSQL | Microsoft Power BI | Excel
 
